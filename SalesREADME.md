@@ -28,7 +28,11 @@ This Power BI dashboard provides a comprehensive month-over-month analysis of pr
   - Data table: Product-wise sales by month and totals
 
 ---
+## Dataset
 
+The dataset used for this dashboard is publicly available on Kaggle:
+
+🔗 https://www.kaggle.com/datasets/beekiran/sales-data-analysis
 ##  Key Insights
 
 - Track monthly sales performance and trends
